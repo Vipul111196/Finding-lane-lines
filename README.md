@@ -32,6 +32,4 @@ The process of detecting lane lines involves several steps, including:
 
 The project includes videos showing the results of the lane detection.
 
-## 🚀 About Me
-I'm an aspiring computer vision with deep learning engineer.
 
